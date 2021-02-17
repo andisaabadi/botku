@@ -1,5 +1,5 @@
-﻿/*
-]=====> ANDYKING <=====[ ]=====> ands bot <=====[ ]=====> 088238145094 <=====[
+/*
+]=====> RAMLAN ID <=====[ ]=====> YT Ramlan ID <=====[ ]=====> 085559240360 <=====[
 */
 // ANAK ANJING PASTI YANG ATAS DI UBAH
 // NGOTAK KONSOL
@@ -41,9 +41,9 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Andisa Ganteng\n' // GANTI NAMA LU
+            + 'FN:RAMLAN ID\n' // GANTI NAMA LU
             + 'ORG:OWNER BOTZ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6288238145094:+62 882-3814-5094\n' // GANTI NOMOR LU
+            + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI NOMOR LU
             + 'END:VCARD'
 // UDAH SEGITU KONSOL KEBAWAH BIARIN AJA
 const ngonsol = JSON.parse(fs.readFileSync('./settings/Ramlan.json'))
@@ -2101,7 +2101,7 @@ baby.sendMessage(from, tujuh, MessageType.audio, {quoted: mek, mimetype: 'audio/
 break														
 /*
 ]=====> TQTO <=====[
-> ANDISA ID
+> RAMLAN ID
 > REVOER ID
 > ARIS ID
 > NADIA CANS
