@@ -17,7 +17,6 @@ const {
    GroupSettingChange,
    waChatKey,
    mentionedJid,
-   processTime,
 } = require("@adiwajshing/baileys")
 const qrcode = require("qrcode-terminal") 
 const moment = require("moment-timezone") 
@@ -26,7 +25,6 @@ const crypto = require('crypto')
 const imageToBase64 = require('image-to-base64')
 const axios = require('axios')
 const { color, bgcolor } = require('./lib/color')
-const { donasi } = require('./lib/donasi')
 const { fetchJson } = require('./lib/fetcher')
 const { recognize } = require('./lib/ocr')
 const { cara } = require('./src/cara')
